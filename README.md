@@ -10,14 +10,10 @@ First of all, thanks for your support and for checking-out our new release, to g
 - Open source.
 
 ## Discord Bot Usage
-```
-    under developmnet
-```  
+```under developmnet```  
 
 ## Discord Bot Explain
-```
-    under developmnet
-```  
+```under developmnet```  
     
     
     
