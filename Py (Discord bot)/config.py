@@ -1,0 +1,9 @@
+token = ""
+diaxoristiko = ("------------------------------------")
+WelcomeChannelId = (1096800481520660611)
+LeaveChannelId = (1096800481520660611)
+embsigniture= "Lisence System™"
+BotStatus = "Lisence System™"
+AdminlLogChannel = (1088745195845189682)
+JoinLeaveLogsChannelID = (1097052011800830123)
+KickBanLogsChannelID = (1097056673790701688)
